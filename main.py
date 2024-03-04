@@ -22,8 +22,8 @@ top_left_y = s_height - play_height
 
 # SHAPE FORMATS
 
-S = [['.....',
-      '.....',
+S = [['00000',
+      '00000',
       '..00.',
       '.00..',
       '.....'],
